@@ -470,43 +470,6 @@ Keyboard Shortcuts
 
 Professional Icons
 
------------------------------------
-
-DESIGN
-
------------------------------------
-
-Create a premium enterprise UI similar to
-
-Azure Portal
-
-AWS Console
-
-Hikvision AI Dashboard
-
-Axis Camera Station
-
-Milestone XProtect
-
-Use modern cards, gradients, smooth transitions, and clean typography.
-
-The interface should feel like a commercial AI surveillance product rather than a student project.  and use 3js in every possible page and like when user scan face and pop up with name and timing and all through 3js library
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://aegis-face-insight.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/9336211a-3886-460d-aeb7-49086f7cbfd5).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
 git clone <this-repository-url>
